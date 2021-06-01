@@ -18,5 +18,5 @@ eg: `python main.py 3`
 ## Testing the API
 
  ## To run the tests, run
- python test_roles.py
- python test_users.py
+ `python test_roles.py`
+ `python test_users.py`
